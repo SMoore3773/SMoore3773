@@ -1,16 +1,43 @@
-### Hi there 👋
-
-<!--
-**SMoore3773/SMoore3773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello There
+  
+  ```json
+  {
+    "firstName": "Sam",
+    "lastName": "Moore",
+    "background": { 
+                  "fine art": "sculpture" , 
+                  "healthcare": "pharmacy" 
+                  },
+    "passion": [
+                  "creating tools to help people", 
+                  "design and styling"
+                ],
+    "tools": {
+              "frontEnd":[
+                          "React.js",
+                          "Redux",
+                          "Context API",
+                          "HTML",
+                          "CSS",
+                          "Less"
+                          ],
+              "backEnd": [
+                          "Express",
+                          "Node",
+                          "Knex"
+                          ],
+              "misc": [
+                        "Python"
+                       ]
+              },
+    "project": {
+                "status": "Coming Soon",
+                "name": "Student Track",
+                "concept": "A tool to help teachers dynamically set and track individual student's learning goals"
+                },
+    "contact": {
+                "email": "Smooresculpture@gmail.com" ,
+                "linkedin": "https://www.linkedin.com/in/smoore3773/"
+                }
+   }
+   ```
